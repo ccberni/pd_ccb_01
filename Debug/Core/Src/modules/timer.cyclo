@@ -1,0 +1,2 @@
+../Core/Src/modules/timer.c:34:6:timer_init	1
+../Core/Src/modules/timer.c:45:6:timer_counting_bases	4

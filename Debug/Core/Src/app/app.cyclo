@@ -1,0 +1,8 @@
+../Core/Src/app/app.c:43:6:app_setup	1
+../Core/Src/app/app.c:58:6:app_loop	15
+../Core/Src/app/app.c:279:13:app_init	1
+../Core/Src/app/app.c:303:13:app_bt_alg_selection	6
+../Core/Src/app/app.c:333:13:mode_read	2
+../Core/Src/app/app.c:350:15:sm_pid	7
+../Core/Src/app/app.c:408:15:sm_ismc	7
+../Core/Src/app/app.c:472:15:sm_cr2	7

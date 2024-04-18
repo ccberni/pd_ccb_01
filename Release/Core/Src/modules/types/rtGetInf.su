@@ -1,0 +1,4 @@
+../Core/Src/modules/types/rtGetInf.c:20:8:rtGetInf	0	static
+../Core/Src/modules/types/rtGetInf.c:69:10:rtGetInfF	0	static
+../Core/Src/modules/types/rtGetInf.c:81:8:rtGetMinusInf	0	static
+../Core/Src/modules/types/rtGetInf.c:130:10:rtGetMinusInfF	0	static

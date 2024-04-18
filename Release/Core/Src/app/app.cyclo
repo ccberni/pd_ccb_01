@@ -1,0 +1,5 @@
+../Core/Src/app/app.c:350:15:sm_pid	7
+../Core/Src/app/app.c:472:15:sm_cr2	7
+../Core/Src/app/app.c:408:15:sm_ismc	7
+../Core/Src/app/app.c:43:6:app_setup	1
+../Core/Src/app/app.c:58:6:app_loop	20

@@ -1,0 +1,4 @@
+../Core/Src/modules/adc.c:33:6:adc_init	8	static
+../Core/Src/modules/adc.c:51:6:adc_handler	8	static
+../Core/Src/modules/adc.c:75:6:adc_get_values	0	static
+../Core/Src/modules/adc.c:85:8:adc_to_voltage	0	static
